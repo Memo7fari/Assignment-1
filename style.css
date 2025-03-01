@@ -47,7 +47,7 @@ ul {
     float: left;
   }
  .div1{
-    grid-row-start: 1;
+    grid-row-start: 2;
     grid-row-end:3 ;
     grid-column-start:1 ;
     grid-column-end: 10;
@@ -106,3 +106,58 @@ p{
     justify-content: flex;
     
 }
+h1{
+    color: rgb(68, 237, 65);
+    text-align: center;
+}
+.abt{
+    align-items: center;
+    height: 100px;
+    width: 100px;
+
+}
+.div6{
+    grid-row-start:1 ;
+    grid-row-end:1;
+    grid-column-start:1;
+    grid-column-end:;
+    justify-content: left;
+    
+
+ }
+ .div7{
+    grid-row-start:4;
+    grid-row-end:5;
+    grid-column-start:1;
+    grid-column-end: 2;
+    
+
+ }
+ .div8{
+    grid-row-start:7 ;
+    grid-row-end:8;
+    grid-column-start:1;
+    grid-column-end: 2;
+    
+
+ }
+ .contact{
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    width: 1400px;
+
+ }
+ h3{
+    color: rgb(68, 237, 65);
+    text-align: center;
+    justify-content: center;
+
+}
+h2{
+    color: rgb(68, 237, 65);
+    text-align: center;
+    justify-content: center;
+}
+
+ 
